@@ -13,6 +13,7 @@
 
 ```python
 print("Hello World")
+```
 
 ### 3. Variables
 
@@ -25,6 +26,7 @@ marks = 85.5
 print(name)
 print(age)
 print(marks)
+```
 
 ### 4. Datatypes
 
@@ -47,6 +49,7 @@ print(type(age))
 print(type(name))
 print(type(marks))
 print(type(passed))
+```
 
 ### 5. Keywords
 
