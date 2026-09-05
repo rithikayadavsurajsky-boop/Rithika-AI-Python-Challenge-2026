@@ -74,16 +74,17 @@ not
 
 Comments are used to write notes in Python code.
 
-Single-line comment:
+**Single-line comment:**
 
+```python
 # This is a comment
 print("Hello")
+```
 
-Multi-line comment:
+**Multi-line comment:**
 
 """
-This is a
-multi-line comment
+This is a multi-line comment
 """
 
 ### 7. Operators
