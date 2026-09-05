@@ -91,10 +91,10 @@ multi-line comment
 An operator is a symbol that performs a certain operation between operands.
 
 Arithmetic Operators
-+ - * / % **
+`+` `-` `*` `/` `%` `**`
 
 Relational / Comparison Operators
-== != > < >= <=
+`==` `!=` `>` `<` `>=` `<=`
 
 Assignment Operators
 = += -= *= /= %= **=
